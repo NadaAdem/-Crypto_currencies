@@ -8,11 +8,11 @@ The purpose of this project is to create a report that includes what cryptocurre
 ## Visualizing Cryptocurrencies Results
 
 Clustering Cryptocurrencies Using K-means
-[!image]()
+![image]()
 
 
 With this new DataFrame, clustered_df , we start with a 3D Scatter plot using the Plotly Express scatter_3d() function to visualize the 4 Classes.
-[!image]()
+![image]()
 
 
 
@@ -20,9 +20,9 @@ With this new DataFrame, clustered_df , we start with a 3D Scatter plot using th
 
 
 A table is created featuring the tradable cryptocurrencies using the hvplot.table().
-[!image]()
+![image]()
 
 
 A 2D hvplot scatter plot with x="TotalCoinsMined_scaled", y="TotalCoinSupply_scaled", and by="Class" with the CoinName displayed.
-[!image]()
+![image]()
 
