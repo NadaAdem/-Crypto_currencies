@@ -5,6 +5,13 @@
 The purpose of this project is to create a report that includes what cryptocurrencies are on the trading market and  how client could be grouped to create a classification system for their new investment.
 
 
+## Deliverable  using follow technical analysis
+
+-  Preprocessing the Data for PCA
+-  Reducing Data Dimensions Using PCA
+-  Clustering Cryptocurrencies Using K-means
+-  Visualizing Cryptocurrencies Results
+
 ## Visualizing Cryptocurrencies Results
 
 Clustering Cryptocurrencies Using K-means
