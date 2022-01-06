@@ -11,10 +11,13 @@ Clustering Cryptocurrencies Using K-means
 ![image](https://github.com/NadaAdem/Crypto_currencies/blob/main/Resources/elbow_curve.png)
 
 
+Create  new  dataFrame(clustered_df ) by concatenating the crypto_df and pcs_df
+![image](https://github.com/NadaAdem/Crypto_currencies/blob/main/Resources/clustered_df.png)
+
+
+
 With this new DataFrame, clustered_df , we start with a 3D Scatter plot using the Plotly Express scatter_3d() function to visualize the 4 Classes.
 ![image](https://github.com/NadaAdem/Crypto_currencies/blob/main/Resources/3D%20Plot.png)
-
-
 
 
 
